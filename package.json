@@ -1,0 +1,20 @@
+{
+  "name": "selfhostalexajs",
+  "version": "1.0.0",
+  "description": "Example of simplest alexa skill using node js that I could make",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "express": "^4.16.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fluent-ffmpeg": "^2.1.2",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.18.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Campbell (jimmypc92)",
+  "license": "ISC"
+}
